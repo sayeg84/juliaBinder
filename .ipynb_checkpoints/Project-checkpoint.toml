@@ -1,0 +1,5 @@
+[compat]
+julia = ">= 1.6"
+[deps]
+Plots
+Interact 
